@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453572922172",
+    "project_id": "composefcm-fe0c4",
+    "storage_bucket": "composefcm-fe0c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453572922172:android:63ce3b11006dfb78752c39",
+        "android_client_info": {
+          "package_name": "com.cursodekotlin.composefcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453572922172-g8kbld4d7s03trvlnvc6tj7qqjrfg49g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursodekotlin.composefcm",
+            "certificate_hash": "7ea25ed332bea6e3d8d6d75a966f213dce2e5af0"
+          }
+        },
+        {
+          "client_id": "453572922172-9dmade6vjkptc7h6pmj78ed51pt31325.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkr5yYHHCzYOtb9TVNj25ljFtOj7iOJQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453572922172-9dmade6vjkptc7h6pmj78ed51pt31325.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
